@@ -1,4 +1,4 @@
-{"version_code":451210,"content":"
+{"version_code":45121,"content":"
 <p>تحديث 5.00</p>
 
 <li>السلام عليكم ورحمة الله وبركاته</li>
